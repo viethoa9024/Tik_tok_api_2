@@ -1,6 +1,6 @@
 # Tiktok api
 
-Get video for TikTok without watermark, api bypass "snaptik.app" 
+Get video for TikTok without watermark, api bypass "snaptik.app"
 
 ## Installation
 
@@ -15,13 +15,13 @@ Install requirement
 Clone the project
 
 ```bash
-  git clone github.com/Ghost6446/Tik_tok_api_1
+  git clone github.com/Ghost6446/Tik_tok_api_2
 ```
 
 Go to the project directory
 
 ```bash
-  cd Tik_tok_api_1
+  cd Tik_tok_api_2
 ```
 
 Start scrapper
